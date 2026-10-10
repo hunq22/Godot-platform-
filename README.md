@@ -1,1 +1,1 @@
-tải về và unzip
+tải về và vào trong godot import 
